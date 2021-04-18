@@ -4,10 +4,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-marquee{
-    margin: 0;
-    padding: 0;
-}
 html{
     scroll-behavior: smooth;
 }

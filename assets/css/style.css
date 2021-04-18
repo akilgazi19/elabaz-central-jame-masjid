@@ -73,6 +73,7 @@ h3{
     text-align: center;
     padding: 40px 40px 0 40px;
 }
+
 /* header section */
 header .logo img{
     display: block;
@@ -84,9 +85,8 @@ header .header-text{
     border-radius: 50px;
     padding: 5px 10px;
 }
-/* main section */
 
-/* image slider */
+/* main section */
 .slideshow-container {
     max-width: 100%;
     position: relative;
@@ -149,6 +149,7 @@ blockquote {
     color: #dc3545;
     font-weight: bold;
 }
+
 /* footer section */
 footer{
     color: #fff;
